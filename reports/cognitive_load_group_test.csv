@@ -1,0 +1,2 @@
+test,successful_n,unsuccessful_n,successful_mean,unsuccessful_mean,successful_median,unsuccessful_median,median_difference_success_minus_unsuccessful,u_statistic,p_value,rank_biserial_effect_size
+Mann–Whitney U,303,197,4.197359735973597,4.960913705583756,4.4,4.7,-0.2999999999999998,24254.0,0.00039668571747036424,-0.18734817644200963
