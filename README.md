@@ -1,6 +1,6 @@
 # CogniStream
 
-**Developer Flow-State & Cognitive Load Analytics**
+**Developer Flow-State & Cognitive Load Analytics.**
 
 CogniStream is a data analytics project that explores how developer work patterns relate to reported cognitive load and task success. It includes data validation, cleaning, feature engineering, exploratory data analysis (EDA), statistical association testing, automated tests, and a Streamlit dashboard.
 
