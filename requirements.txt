@@ -5,5 +5,5 @@ scipy
 streamlit
 plotly
 pytest
-#jupyterlab
+jupyterlab
 ipykernel
