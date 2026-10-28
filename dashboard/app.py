@@ -1,5 +1,5 @@
 """
-CogniStream — Developer Flow-State & Cognitive Load Analytics
+
 
 Interactive Streamlit dashboard using the real
 AI Developer Productivity dataset.
