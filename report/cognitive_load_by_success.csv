@@ -1,0 +1,3 @@
+task_outcome,observations,mean,median,standard_deviation,minimum,maximum
+Successful,303,4.197,4.4,1.568,1.0,6.9
+Unsuccessful,197,4.961,4.7,2.179,1.0,10.0
